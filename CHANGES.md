@@ -5,6 +5,7 @@ v2.1.2 (future)
 ----------------
 
 - sync: Compare update time to skip already up to date repos.
+- update_csearch_index: fix a bug that index is not updated.
 
 v2.1.1 (2013-11-9)
 ------------------
